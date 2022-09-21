@@ -1,0 +1,52 @@
+[
+	{
+		"id": "reduce-gas-consumption",
+		"category": "TipsAndTricks",
+		"title": "Here are some tricks to <em>reduce GAS consumption</em> and <em>save money</em>.",
+		"author": "Nicola Castellani",
+		"date": "January 01, 2023",
+		"image": "https://images.pexels.com/photos/266896/pexels-photo-266896.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+		"main": true
+	},
+	{
+		"id": "compost-from-food",
+		"category": "TipsAndTricks",
+		"title": "How to create <em>compost for plants</em> with our <em>food waste?</em>",
+		"author": "Nicola Castellani",
+		"date": "January 01, 2023",
+		"image": "https://images.pexels.com/photos/9324368/pexels-photo-9324368.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+	},
+	{
+		"id": "old-newspapers-uses",
+		"category": "TipsAndTricks",
+		"title": "Here are <em>34 uses</em> for your <em>old newspapers.</em>",
+		"author": "Nicola Castellani",
+		"date": "January 01, 2023",
+		"image": "https://images.pexels.com/photos/167538/pexels-photo-167538.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+	},
+	{
+		"id": "unplug-unused-electronics",
+		"category": "TipsAndTricks",
+		"title": "Unplug <em>unused electronics</em>, save energy and money.",
+		"author": "Nicola Castellani",
+		"date": "January 01, 2023",
+		"image": "https://images.pexels.com/photos/218445/pexels-photo-218445.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+	},
+	{
+		"id": "recycle-old-items",
+		"category": "TipsAndTricks",
+		"title": "How to <em>recycle old items?</em> Give them a new life.",
+		"author": "Nicola Castellani",
+		"date": "January 01, 2023",
+		"image": "https://images.pexels.com/photos/5862970/pexels-photo-5862970.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+	},
+	{
+		"id": "washing-machines-30-deg",
+		"category": "TipsAndTricks",
+		"title": "Run your washing machine at <em>30 degrees</em> with a full load to save money (and time).",
+		"author": "Nicola Castellani",
+		"date": "January 01, 2023",
+		"image": "https://images.pexels.com/photos/7282378/pexels-photo-7282378.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+		"main": true
+	}
+]

@@ -1,0 +1,26 @@
+.app-button {
+    padding: var(--padding-sm) 0;
+    width: 256px;
+
+    background-color: var(--primary-color);
+    color: var(--background-color);
+
+    border-radius: var(--border-radius);
+
+    cursor: pointer;
+    position: relative;
+
+    outline: none;
+    border: none;
+
+    transition: all .25s ease-in-out;
+}
+
+.app-button:hover {
+    transform: scale3d(1.04, 1.04, 1.04);
+}
+
+.app-button span {
+    font-size: var(--font-size-sm);
+    z-index: 10;
+}

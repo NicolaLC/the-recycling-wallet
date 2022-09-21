@@ -4,6 +4,10 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
+import './Assets/Fonts/Jomhuria-Regular.ttf';
+import './Assets/Fonts/GeneralSans-Variable.ttf';
+import './Assets/Fonts/GeneralSans-VariableItalic.ttf';
+
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>

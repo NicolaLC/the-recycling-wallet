@@ -1,0 +1,17 @@
+.app-header {
+  display: flex;
+  justify-content: space-between;
+
+  color: var(--foreground-color);
+
+  position: sticky;
+  top: var(--padding-md);
+
+  z-index: 9999;
+}
+
+.app-header.scroll-exceeded {
+  background-color: var(--background-color);
+  top: 0;
+  padding: var(--padding-md) 0;
+}

@@ -1,0 +1,22 @@
+.app-logo {
+    display: inline-flex;
+    flex-direction: row;
+    align-items: center;
+
+    height: 32px;
+}
+
+.app-logo img {
+    width: var(--icon-size-nm);
+    height: var(--icon-size-nm);
+
+    margin-right: var(--padding-md);
+}
+
+.app-logo h1 {
+    font-family: var(--font-primary);
+    font-size: var(--font-size-md);
+    margin: var(--padding-sm) 0 0 0;
+
+    font-weight: normal;
+}

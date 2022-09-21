@@ -1,6 +1,12 @@
-# Getting Started with Create React App
+# The Recycling Wallet
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a ***personal open source project***, the idea is to create a collection of tips and tricks, news and others
+things related to improve your actions against climate change, with **2 goals**:
+
+1. Teach new way of ***recycling***.
+2. Tell people how to ***save money***.
+
+You can take a look to the [figma](https://www.figma.com/file/92IhOPD00y3Hx9qwul8jN8/SmallKakebo?node-id=0%3A1) design.
 
 ## Available Scripts
 

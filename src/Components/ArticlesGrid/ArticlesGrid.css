@@ -1,0 +1,22 @@
+.app-articles-grid {
+    display: grid;
+    grid-template-columns: 8fr 4fr;
+    grid-template-rows: 332px 332px;
+
+    row-gap: var(--padding-lg);
+    column-gap: var(--padding-lg);
+
+    margin-bottom: var(--padding-lg);
+}
+
+.app-articles-grid.alternate {
+    grid-template-columns: 4fr 8fr;
+}
+
+.app-articles-grid.alternate .app-articles-grid-item.main {
+    grid-column: 2;
+}
+
+.app-articles-grid:last-of-type {
+    margin-bottom: var(--padding-lg);
+}
